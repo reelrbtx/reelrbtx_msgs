@@ -1,0 +1,14 @@
+	int32 cycle_count
+    int32 distance_request       
+    int32 current_boundary       
+    int32 current_encoder_count  
+    int32 encoder_target         
+    int32 encoder_steps          
+    int32 steps_part_one         
+    int32 left_over              
+    int32 steps_part_two         
+    int32 previous_encoder_target   
+    int32 predicted_encoder_count 
+    int32 encoder_count_delta 
+    int32 accumulated_encoder_delta
+    int32 previous_accumulated_encoder_delta

@@ -1,0 +1,3 @@
+std_msgs/Int32 truncated_timestamp
+std_msgs/Int64 command_order
+std_msgs/Int32 distance_request
