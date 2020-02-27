@@ -25,6 +25,7 @@ add_message_files(
 	  FirmwareConfiguration.msg
     KinematicDebug1.msg
     KinematicDebug2.msg
+    ReelCommand.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
