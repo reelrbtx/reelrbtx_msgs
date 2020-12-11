@@ -25,6 +25,8 @@ add_message_files(
 	  FirmwareConfiguration.msg
     KinematicDebug1.msg
     KinematicDebug2.msg
+    Go.msg
+    CalibrationSuccess.msg
     ReelCommand.msg
 )
 
