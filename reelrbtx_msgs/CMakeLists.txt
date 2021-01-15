@@ -28,6 +28,7 @@ add_message_files(
     Go.msg
     CalibrationSuccess.msg
     ReelCommand.msg
+    RoboteqDistanceRequest.msg
 )
 
 ## Generate added messages and services with any dependencies listed here

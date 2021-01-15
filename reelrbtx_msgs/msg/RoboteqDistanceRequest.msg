@@ -1,0 +1,3 @@
+std_msgs/Header header
+int32 distance_request
+int32 truncated_timestamp
